@@ -71,7 +71,9 @@
 				<version>3.0.0-M4</version>
 				<configuration>
 
-					<suiteXmlFiles> <suiteXmlFile>${testngFile}</suiteXmlFile> </suiteXmlFiles>
+					<suiteXmlFiles>
+						<suiteXmlFile>${testngFile}</suiteXmlFile>
+					</suiteXmlFiles>
 				</configuration>
 			</plugin>
 
